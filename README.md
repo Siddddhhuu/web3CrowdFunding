@@ -31,7 +31,7 @@ This is a functional **Crowdfunding Web Application** built using modern web3 te
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Siddddhhuu/Crowdfunding.git
+git clone https://github.com/Siddddhhuu/web3CrowdFunding.git
 cd web3-crowdfunding
 ```
 
@@ -89,15 +89,3 @@ npm run dev
 * [XDC Apothem Testnet Explorer](https://explorer.apothem.network/)
 * [Thirdweb Dashboard](https://thirdweb.com/dashboard)
 * [MetaMask](https://metamask.io/)
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
